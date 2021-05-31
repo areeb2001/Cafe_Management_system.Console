@@ -1,0 +1,26 @@
+E:\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+E:\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+E:\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+E:\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+E:\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+E:\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+E:\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+E:\areeb files\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+E:\areeb files\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+E:\areeb files\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+E:\areeb files\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+E:\areeb files\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+E:\areeb files\HTML\C#\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+E:\areeb files\HTML\C#\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
